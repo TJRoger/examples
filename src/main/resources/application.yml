@@ -1,0 +1,7 @@
+debug: false
+server:
+  port: 4096
+
+spring:
+  main:
+    banner-mode: console
